@@ -1,4 +1,5 @@
-# MotionIllusion
+# Motion-Illusion
+
 Motion capture and special effects for performing arts purpose.
 
 1. Experiment : OpenFrameworks
